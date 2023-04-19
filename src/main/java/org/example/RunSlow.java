@@ -1,8 +1,8 @@
 package org.example;
 
-public class chayCham implements IChay{
+public class RunSlow implements IRun{
     @Override
-    public void Chay() {
+    public void Run() {
         System.out.println("Toi co the chay cham.");
     }
 }
